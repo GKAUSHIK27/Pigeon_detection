@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ultralytics
 
 torch==2.0.0  # Replace with your required version
@@ -7,3 +8,9 @@ opencv-python             # For image processing
 numpy                     # For numerical operations
 pandas                    # For data manipulation
 matplotlib 
+fastapi
+python-multipart
+ultralytics
+uvicorn
+opencv-python
+>>>>>>> origin/development
