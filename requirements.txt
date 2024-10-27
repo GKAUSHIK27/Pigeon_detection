@@ -1,0 +1,9 @@
+ultralytics
+
+torch==2.0.0  # Replace with your required version
+torchvision==0.15.0  # Replace with your required version
+# Add any additional dependencies your application needs
+opencv-python             # For image processing
+numpy                     # For numerical operations
+pandas                    # For data manipulation
+matplotlib 

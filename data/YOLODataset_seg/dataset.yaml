@@ -1,0 +1,6 @@
+train: C:/Users/HP/OneDrive/Desktop/V3/Json/YOLODataset_seg
+val: C:/Users/HP/OneDrive/Desktop/V3/Json/YOLODataset_seg
+
+nc: 1
+
+names: ['Pigeon']
